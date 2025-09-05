@@ -8,4 +8,6 @@ Explain why it works that way, mathematically or physically.
 Generate visualizations, simulations, or explanations interactively.
 
 Serve as a research-grade or industry-ready reasoning platform.
+
+building the whimsy with the abstract.
 '''
