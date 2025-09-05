@@ -10,4 +10,6 @@ Generate visualizations, simulations, or explanations interactively.
 Serve as a research-grade or industry-ready reasoning platform.
 
 building the whimsy with the abstract.
+
+tracing back every object to its natural & mathematical origins
 '''
